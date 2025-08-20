@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # WEB102 Prework - *Crowdfunding Games Dashboard*
 
 Submitted by: **Shreya Akula**
@@ -49,3 +50,6 @@ Describe any challenges encountered while building the app.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+=======
+# crowdfunding-dashboard
+>>>>>>> f31d5a65a96de0536d0e452ede5bb2b35a705bf4
