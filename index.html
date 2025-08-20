@@ -24,18 +24,15 @@
     <div class="stats-container">
         <div class="stats-card">
             <h3>Individual Contributions</h3>
-            <p id="num-contributions">
-            </p>
+            <p id="num-contributions"></p>
         </div>
         <div class="stats-card">
             <h3>Total Raised</h3>
-            <p id="total-raised">
-            </p>
+            <p id="total-raised"></p>
         </div>
         <div class="stats-card">
             <h3>Total Number of Games</h3>
-            <p id="num-games">
-            </p>
+            <p id="num-games"></p>
         </div>
     </div>
     <div class="stats-container" id="top-games">
@@ -50,14 +47,23 @@
     <!-- list of games funded by Sea Monster -->
     <h2>Our Games</h2>
     <p>Check out each of our games below!</p>
+
+    <!-- Search bar -->
+    <div id="search-container" style="text-align: center; margin: 20px;">
+      <input 
+        type="text" 
+        id="search-bar" 
+        placeholder="Search games by name..."
+        style="padding: 8px; width: 60%; border-radius: 5px; border: 1px solid #ccc;"
+      />
+    </div>
+
     <div id="button-container">
         <button id="unfunded-btn">Show Unfunded Only</button>
         <button id="funded-btn">Show Funded Only</button>
         <button id="all-btn">Show All Games</button>
     </div>
-    <div id="games-container">
-
-    </div>
+    <div id="games-container"></div>
 
     <script type="module" src="index.js"></script>
   </body>
