@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # WEB102 Prework - *Crowdfunding Games Dashboard*
 
 Submitted by: **Shreya Akula**
@@ -18,14 +17,15 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [✅] List anything else that you can get done to improve the app functionality:
+
+ Added a search bar that allows users to quickly filter games by name in real time (resets when input is cleared).
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-</Users/shreyaaa/web102_prework/walkthrough.gif/>
-
+<img src="./walkthrough.gif" title="Video Walkthrough" width="600" alt="Video Walkthrough" />
 
 GIF created with:  
 [Kap](https://getkap.co/) for macOS
@@ -33,7 +33,11 @@ GIF created with:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app:
+
+-Using reduce() to correctly calculate totals for contributions and funds raised.
+
+-Ensuring the search bar worked seamlessly and reset when cleared.
 
 ## License
 
@@ -50,6 +54,4 @@ Describe any challenges encountered while building the app.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
-=======
-# crowdfunding-dashboard
->>>>>>> f31d5a65a96de0536d0e452ede5bb2b35a705bf4
+
