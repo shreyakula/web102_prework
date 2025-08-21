@@ -1,8 +1,8 @@
-# WEB102 Prework - *Crowdfunding Games Dashboard*
+# WEB102 Prework - *Crowdfunded Games Dashboard*
 
 Submitted by: **Shreya Akula**
 
-**Crowdfunding Games Dashboard** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Crowdfunded Games Dashboard** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
 Time spent: **4** hours spent in total
 
